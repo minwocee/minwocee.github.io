@@ -1,0 +1,18 @@
+@media (max-width: 767.98px) {
+    .profile div >h3{
+        font-size: 50px !important;
+        word-break: keep-all;
+        text-align: center;
+    }
+
+    .LL1{
+        word-break: keep-all;
+
+    }
+
+    .LL2{
+    
+        word-break: keep-all;
+    }   
+}
+
